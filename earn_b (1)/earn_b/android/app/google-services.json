@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "271703044719",
+    "project_id": "earn-b-xd7y5c",
+    "storage_bucket": "earn-b-xd7y5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271703044719:android:241b479563e4c5af4ad39a",
+        "android_client_info": {
+          "package_name": "com.mycompany.jobapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCezIXoGqZYsE0xwMpIIUr7paOyd74cQZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271703044719:android:1c8d9fae0e27c88b4ad39a",
+        "android_client_info": {
+          "package_name": "com.mycompany.jobappadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCezIXoGqZYsE0xwMpIIUr7paOyd74cQZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
